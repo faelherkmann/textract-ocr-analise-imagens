@@ -453,6 +453,6 @@ Arquivos marcados como `[referência]` implementam o Textract e não foram execu
 ---
 
 **Autor:** Raphael Herkmann
-[GitHub](https://github.com/SEU_USUARIO) · [LinkedIn](https://linkedin.com/in/SEU_PERFIL)
+[GitHub](https://github.com/faelherkmann) · [LinkedIn](https://www.linkedin.com/in/raphael-herkmann/)
 
 Desenvolvido durante o Bootcamp Nexa da [Digital Innovation One](https://www.dio.me).
